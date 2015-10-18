@@ -1,6 +1,12 @@
 test
 ====
 
+[(test)](http://ya.ru)
+
+[(test)](http://ya.ru/(xxx))
+
+[test[i]](http://ya.ru)
+
 test
 <b>s</b><a href="ya.ru">sdfsd</a>sdfsdf
 <<
